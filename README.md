@@ -38,7 +38,7 @@ cd ai-text-image-generator
 This project is open source and available under the MIT License.
 
 👨‍💻 Author
-Ayush Kumar Dubey
-📧 ayush@XXXXXXX.gmail
-📱 90XXXXXXX
+Aditi Mittal
+📧 aditixxxxxx.gmail
+📱 999xxxxxxx
 
